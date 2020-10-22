@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collection/left-sidebar/all", {data:[],fetch:[],mutations:[]});

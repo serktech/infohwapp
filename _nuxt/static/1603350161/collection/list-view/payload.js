@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collection/list-view", {data:[{}],fetch:[],mutations:[]});
